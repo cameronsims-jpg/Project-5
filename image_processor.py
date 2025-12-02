@@ -251,7 +251,7 @@ class image_processor:
         # options for dropdown
         self.filters = [
             "Grayscale",
-            "Sepia",
+            "Sephia",
             "Invert",
             "Highlight Purple",
             "Flip Horizontal",
@@ -318,7 +318,7 @@ class image_processor:
         if choice == "Grayscale":
             self.current = pixelMapper(self.current, grayscale)
 
-        elif choice == "Sepia":
+        elif choice == "Sephia":
             self.current = pixelMapper(self.current, sephia)
 
         elif choice == "Invert":
