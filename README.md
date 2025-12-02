@@ -1,5 +1,5 @@
 # Project-5
-Image Processing Application (Tkinter with Custom Filters)
+Image Processing Application
 
 ## Overview
 This project is a GUI-based Image Processing Application. The program loads an input image and allows the user to apply 10 different filters of pixel-based and full-image transformations. Those filters include grayscale, sephia, invert, flips, mirrors, blur, and edge detection.
